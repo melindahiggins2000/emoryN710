@@ -18,14 +18,25 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 
 [Dr. Melinda Higgins](https://melindahiggins.netlify.app/) will not be in person today as she is attending the [Posit (formerly RStudio) Conference](https://posit.co/conference/) in Atlanta, GA.
 
-However, please review these presentations and her accompanying video lecture. _Right Click and Save As or Download the files linked below to view the PPR slides_
+However, please review these presentations and her accompanying video lecture. _Right Click and Save As or Download the files linked below to view the PPT (PowerPoint) slides_
 
 NOTE: Slides from [Wenhui (Vivian) Zhang, PhD](https://www.nursing.emory.edu/faculty-staff/wenhui-vivian-zhang) are shared here from NRSG 710 Fall 2024 classes for reference as well.
+
+### Slides and Video
 
 * [Data Analysis Approaches by Wenhui (Vivian) Zhang, PhD](data_analysis_approaches_N_710_2025.pptx)
 * [Levels of Measurement by Melinda Higgins, PhD](Levels_of_Measurement_clarified_MHiggins_May2020.pptx)
 * [Correlation Foundation by Melinda Higgins, PhD](MHiggins_CorrelationFoundation_08302020_fix.pptx)
 * [Melinda's Video Lecture on Echo360]() - TO BE POSTED LATER
+
+### Supplemental Materials - Sample Size, Power and Effect Sizes
+
+* [Power, Sample Size Lecture and Materials - by Melinda Higgins](https://melindahiggins2000.github.io/MHiggins_PowerLecture_GPowerExercises/)
+    - see the PPT slides - slides 29, 33, 35, 41, and 49 give the sample sizes needed to achieve 80% power at 5% level of significance for the most common statistical tests, correlation and linear and logistic regression models.
+    - for example, you need a sample size of ~ 80-120 (approximately) to detect a moderate effect size (doesn't matter which test or model) in general
+* Converting Effect Sizes and Interpretation
+    - [https://www.psychometrica.de/effect_size.html](https://www.psychometrica.de/effect_size.html) - go to item 14 to convert between different effect sizes
+    - [https://www.psychometrica.de/effect_size.html](https://www.psychometrica.de/effect_size.html) - also see item 16 for “Table of interpretation for different effect sizes””
 
 ## Stats Lab: Tables and Figures - Jordan Pelkmans
 
