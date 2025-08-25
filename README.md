@@ -38,7 +38,7 @@ In class today, [Jordan Pelkmans ONR Biostatistician](https://www.nursing.emory.
 
 ## Regression Analysis in Health Outcomes Research
 
-Melinda Higgins will be in class today covering regression methods for Health Outcomes Research.
+Melinda Higgins will be in class today covering regression methods for Health Outcomes Research. The PPT slides and video lecture are provided below.
 
 * [Regression Analyses and Interpretation by Wenhui (Vivian) Zhang, PhD](Regression_Analysis_Interpretation_2025.pptx)
 * [Regression Analyses Presentation by Melinda Higgins, PhD]() - TO BE ADDED LATER
@@ -49,7 +49,7 @@ Melinda Higgins will be in class today covering regression methods for Health Ou
 
 ## Multivariate Modeling
 
-Melinda Higgins will be traveling this week presenting at the AHA (American Heart Association) Scientific Sessions Conference. However, her materials and video lecture are provided below.
+Melinda Higgins will be traveling this week presenting at the AHA (American Heart Association) Scientific Sessions Conference. However, her materials, PPT slides and video lecture are provided below.
 
 * [Multivariate Modeling Wenhui (Vivian) Zhang, PhD](Multivariate_modeling_2025.pptx)
 * [MV Modeling Presentation by Melinda Higgins, PhD]() - TO BE ADDED LATER
