@@ -14,9 +14,9 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 
 # Statistics Support - Part 1 (09/16/2025)
 
-## Approaches to Data Analysis - [Melinda Higgins](https://melindahiggins.netlify.app/)
+## Approaches to Data Analysis - Melinda Higgins, PhD
 
-Dr. Higgins will not be in person today as she is attending the [Posit (formerly RStudio) Conference](https://posit.co/conference/) in Atlanta, GA.
+[Dr. Melinda Higgins](https://melindahiggins.netlify.app/) will not be in person today as she is attending the [Posit (formerly RStudio) Conference](https://posit.co/conference/) in Atlanta, GA.
 
 However, please review these presentations and her accompanying video lecture. _Right Click and Save As or Download the files linked below to view the PPR slides_
 
@@ -27,9 +27,9 @@ NOTE: Slides from [Wenhui (Vivian) Zhang, PhD](https://www.nursing.emory.edu/fac
 * [Correlation Foundation by Melinda Higgins, PhD](MHiggins_CorrelationFoundation_08302020_fix.pptx)
 * [Melinda's Video Lecture on Echo360]() - TO BE POSTED LATER
 
-## Stats Lab: Tables and Figures - [Jordan Pelkmans](https://www.nursing.emory.edu/pages/onrstatsdata#Content-Section-5) [Profile Link](https://www.nursing.emory.edu/faculty-staff/jordan-pelkmans)
+## Stats Lab: Tables and Figures - Jordan Pelkmans
 
-In class today, Jordan Pelkmans (ONR Biostatistician) will work with you to begin laying out the descriptive statisics and perhaps other group comparisons to describe your dataset for your NRSG 710 project. You will begin building "Table 1" for your projects.
+In class today, [Jordan Pelkmans ONR Biostatistician](https://www.nursing.emory.edu/pages/onrstatsdata#Content-Section-5) and [Jordan's Profile Link](https://www.nursing.emory.edu/faculty-staff/jordan-pelkmans) will work with you to begin laying out the descriptive statisics and perhaps other group comparisons to describe your dataset for your NRSG 710 project. You will begin building "Table 1" for your projects.
 
 
 -----
